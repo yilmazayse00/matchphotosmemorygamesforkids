@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540595812702",
+    "project_id": "matchphotosmemorygamesforkids",
+    "storage_bucket": "matchphotosmemorygamesforkids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540595812702:android:68816efdab9cbe342b77cf",
+        "android_client_info": {
+          "package_name": "com.ao.matchphotosmemorygamesforkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540595812702-utada15u2ebqnmbrff7noac76mfvskps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2RPXILpbWo8e4vFplbCBGmA5ZPRyG7qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540595812702-utada15u2ebqnmbrff7noac76mfvskps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
